@@ -1,0 +1,27 @@
+
+
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+.bg{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://antonovich-design.ae/uploads/gallery/2022/1/antonovich-design-20223x0Vc9AtpMja.jpg');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    filter: blur(20px);
+    position: absolute;
+    z-index: -1;
+}
+
+.loading-text {
+    font-size: 50px;
+    color: #9CC8D8;
+}
