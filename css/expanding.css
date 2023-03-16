@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 body {
-    font-family: 'Caveat', cursive;
+    font-family: 'Playfair Display', serif;
     display: flex;
     height:100vh;
     align-items: center;
