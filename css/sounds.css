@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Assistant', sans-serif;
-    background-color: rgb(161, 100, 223);
+    background-color: #be93d4;
     display: flex;
     height: 100vh;
     align-items: center;
@@ -13,7 +13,7 @@ body{
 }
 
 .btn {
-    background-color: rebeccapurple;
+    background-color: #7a4988;
     color: white;
     border: 0;
     border-radius: 5px;
