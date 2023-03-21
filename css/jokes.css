@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background-color: #b90e0a;
+    background-color: #e3cd65;
     border-radius: 10px;
     padding: 50px 20px;
     text-align: center;
@@ -35,7 +35,7 @@ h3 {
 
 .btn {
     font-family: 'Abel', sans-serif;
-    background-color: #d6b85a;
+    background-color: #b90e0a;
     color: white;
     border: 0;
     border-radius: 10px;
