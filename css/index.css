@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 body {
-    font-family: 'Tinos', serif;
-    backround-color: #f8f8f8;
+    font-family: 'PT Mono', monospace;
 }
