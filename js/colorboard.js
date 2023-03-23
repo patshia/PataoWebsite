@@ -11,8 +11,8 @@ for (let i = 0; i < SQUARES; i++) {
 }
 
 function setColor(element) {
-    
-    element.style.background = 'pink'
+    const color = colors[Math.floor(Math.random() * 5)]
+    element.style.background = color
 }
 
 function removeColor(element) {
