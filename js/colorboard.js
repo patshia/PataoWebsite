@@ -10,6 +10,6 @@ for (let i = 0; i < SQUARES; i++) {
 }
 
 function setColor(element) {
-
-    element.style.background = "yellow"
+    const color = colors[0]
+    element.style.background = color
 }
