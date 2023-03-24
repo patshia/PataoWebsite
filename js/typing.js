@@ -1,6 +1,6 @@
 const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
-const text = "We LOVE The Untamed"
+const text = "PaTshia Lee"
 let idx = 1;
 let speed = 100 / speedEl.value
 speedEl.addEventListener('input', (element) => {
