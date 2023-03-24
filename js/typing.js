@@ -2,10 +2,16 @@ const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
 const text = "We LOVE The Untamed"
 let idx = 1;
-let speed = 300
+let speed = 100 / speedEl.value
 
 writeText()
 
 function writeText(){
-    textEl.innerText = text.slice(0,1)
+    textEl.innerText = text.slice(0,idx)
+    idx++
+
+    if (idx > text.length){
+        idx = 1
+    }
+    setTimeout(writeText, speed)
 }
