@@ -18,11 +18,13 @@ body {
 
 .box {
     background: #e7cdeb;
-    margin: 30px;
-    height: 50px;
+    margin: 29px;
+    height: 30px;
     width: 100px;
-    padding: 5px 50px;
+    padding: 40px 40px;
     text-align: center;
+    border: 0;
+    border-radius: 40px;
 }
 
 a {
