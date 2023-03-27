@@ -17,7 +17,8 @@ body {
 }
 
 .box {
-    background: #e7cdeb;
+    background-color: #e7cdeb;
+    color: #773481
     margin: 29px;
     height: 30px;
     width: 100px;
@@ -29,4 +30,8 @@ body {
 
 a {
     text-decoration: none;
+}
+
+.box:hover {
+    opacity: 0.7;
 }
