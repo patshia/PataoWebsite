@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oregano&display=swap');
 
 body {
-    font-family: 'Peddana', serif;
+    font-family: 'Oregano', cursive;
     background-color: #ffdfee;
     display: flex;
     height: 100vh;
