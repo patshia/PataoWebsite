@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap');
 
 body {
-    font-family: 'PT Mono', monospace;
-    background-color: #ffdfee;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+     background-color: #ffdfee;
     display: flex;
     height: 100vh;
     align-items: center;
