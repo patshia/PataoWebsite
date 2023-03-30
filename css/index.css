@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Life+Savers:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Life+Savers:wght@700&family=Playfair+Display&display=swap');
 
 body {
-    font-family: 'Life Savers', cursive;
+    font-family: 'Playfair Display', serif;
     background-color: #ffdfee;
     display: flex;
     height: 100vh;
@@ -19,7 +19,7 @@ body {
 .box {
     background-color: #e7cdeb;
     color: #9641a3;
-    font-size: 25px;
+    font-size: 20px;
     margin: 29px;
     height: 30px;
     width: 100px;
